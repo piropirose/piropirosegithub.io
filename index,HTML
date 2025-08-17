@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/style.css">
+        <title>楽しい海鮮</title>
+    </head>
+    <body>
+ <header>
+    <div class="innerWrap">
+<nav>
+<ul>
+    <li><a href="#">piropirosekobo</a></li>
+    <li><a href="#">menu</a></li>
+</ul>
+</nav>
+<h1><img src="images/tanosiikaisenn.PNG" alt="楽しい海鮮"></h1>
+</div>
+</header>
+    <div class="innerWrap">
+        <section class="uminonakamatati">
+<main>
+<h2><img src="images/uminonakamatati.PNG" width="600px" alt="海の仲間たち"></h2>
+<div class="container">
+<ul class="carousel">
+<li class="item">
+<div class="sakana"><img src="images/annkou.PNG" width="800" height="800" alt="チョウチンアンコウ"></div>
+<h3>チョウチンアンコウ</h3>
+<p>
+    趣味は魚釣り。<br>
+    基本ぼーっとしている。<br>
+    大好物は魚。
+</p>
+</li>
+<li class="item">
+<div class="sakana"><img src="images/uni.PNG" width="800" height="800" alt="ウニ"></div>
+<h3>ウニ</h3>
+<p>
+    趣味は寝ること。<br>
+    基本何も考えてない。<br>
+    大好物はキャベツ。
+</p>
+</li>
+<li class="item">
+<div class="sakana"><img src="images/kaki.PNG" width="800" height="800" alt="牡蠣"></div>
+<h3>牡蠣</h3>
+<p>早寝早起きの健康なやつ。<br>
+    ストレスで真珠ができる。<br>
+    結構グルメ。
+</p>
+</li>
+<li class="item">
+<div class="sakana"><img src="images/tai.PNG" width="800" height="800" alt="鯛"></div>
+<h3>鯛</h3>
+<p>
+    チョウチンアンコウの影響で<br>
+    釣りにハマっている。<br>
+    お祭りが好き。
+</p>
+</li>
+<li class="item">
+<div class="sakana"><img src="images/sake.PNG" width="800" height="800" alt="鮭"></div>
+<h3>鮭</h3>
+<p>
+趣味は酒を飲むこと。<br>
+川には戻らないらしい。<br>
+みんなでワイワイ飲むのが好き。
+</p>
+</li>
+</ul>
+</section>
+</div>
+<section class="info">
+<div class="innerWrap">
+<h2><img src="images/info.PNG" width="700px" alt="いんふぉ"></h2>
+<p><a href="https://store.line.me/stickershop/product/30475155/ja"><img src="images/stanp.PNG" alt="楽しい海鮮LINEスタンプ"></a></p>
+<p><a href="https://jp.mercari.com/user/profile/384051428?utm_source=ios&utm_medium=share"><img src="images/akuki-.PNG" alt="楽しい海鮮アクリルキーホルダー"></a></p>
+</div>
+</section>
+</main>
+    </body>
+</html>
